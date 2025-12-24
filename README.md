@@ -109,6 +109,56 @@ pip install numpy pandas matplotlib seaborn statsmodels scikit-learn
 ## Results
 
 The models demonstrate the feasibility of forecasting short-term residential energy consumption using historical sensor data. Results highlight the 
-importance of temporal dependencies, seasonality, and feature selection in time-series prediction tasks.
+importance of temporal dependencies, seasonality, and feature selection in time-series prediction tasks.The most reliable models were proven to be the deep learing alogrithms while the machine learning models 
+performed good as well.
 
 Detailed analysis and conclusions are provided in the final project report.
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@mastersthesis{author2024,
+  title={Time-Series Forecasting of Residential Energy Consumption},
+  author={[Themistoklis Proko]},
+  school={[University of Thessaly]},
+  year={2025},
+  url={[https://github.com/[your-username]/[repository-name]](https://github.com/ThemisProkos/Forecasting-of-Power-Consumption)}
+}
+
+```
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### License Overview
+- **Commercial use**: Allowed
+- **Modification**: Allowed
+- **Distribution**: Allowed
+- **Private use**: Allowed
+- **Inclusion in other projects**: Allowed
+
+### Requirements
+- Include the original copyright notice
+- Include the license text
+
+### Limitations
+- No warranty or liability
+
+The MIT License is a permissive license that allows others to use your code with minimal restrictions, making it ideal for academic and research projects.
+
+---
+
+## Contact
+**Your Name**  
+- 📧 Email: [themisproko@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/themistoklis-proko-108638287/] 
+- 💻 GitHub: [https://github.com/ThemisProkos] 
+- 🎓 Institution: University of Thessaly  
+
+*Feel free to reach out for collaborations, questions about the methodology, or discussions about power system inertia estimation.*
+
+
+
