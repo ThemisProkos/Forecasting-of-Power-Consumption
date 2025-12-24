@@ -78,6 +78,7 @@ energy-consumption-time-series-forecasting/
 ├── energydata_complete.csv                      # Dataset
 ├── Team_26_final_project_ML.ipynb               # Jupyter notebook (analysis + models)
 ├── Power_Consumption_Forecasting_Final_Project  # Final project report
+├──Data driven prediction models of energy use of appliances in a low-energy house.pdf #Relevant work
 └── README.md                                    # Project documentation
 
 
